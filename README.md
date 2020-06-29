@@ -4,7 +4,7 @@ This Project is a website for cheking prayer times in Morocco in more than 100 c
 
 ### Contains several tips like:
 * **Search Bar** 
-* **How to Calculate Remaining Time **
+* **How to Calculate Remaining Time**
 * **How to Fetch Data using fetch**
 * **How to Create a Clock using Javascript from scratch** 🕦
 
@@ -13,6 +13,7 @@ You need Node Js 🌐 on your Computer, and to use some commands to install reac
     ```
     $ npx create-react-app .
     ```
+    
 ⚠ Run this script tag in the integrated terminal in your text Editor, For Example ( use {CTRL + Shift + M} to open terminal in VS code )
  
 ## Contributing
