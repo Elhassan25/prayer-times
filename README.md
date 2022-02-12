@@ -1,6 +1,6 @@
 # prayer-times
 ## Content
-This Project is a website for cheking prayer times in Morocco in more than 100 city;
+This Project is a web application for cheking prayer times in Morocco in more than 100 city;
 
 ### Contains several tips like:
 * **Search Bar** 
