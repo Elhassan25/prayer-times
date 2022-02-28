@@ -29,3 +29,4 @@ HACK AWAY! 🧠🧠🧠
 
 
 🔃 Create a new pull request here https://github.com/Elhassan25/prayer-times/compare/
+*NB: Project is for beginners that wants to practice Javascript*
